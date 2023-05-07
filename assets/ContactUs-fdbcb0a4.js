@@ -1,0 +1,1 @@
+import{_ as r,o as e,c,b as _}from"./index-9d70becc.js";const o={};function s(t,n){return e(),c("div")}const a=r(o,[["render",s]]),u={__name:"ContactUs",setup(t){return(n,f)=>(e(),c("div",null,[_(a)]))}};export{u as default};
